@@ -15,4 +15,4 @@
 	Highly customizable : you can use gradle for java/android/python/JavaScript/etc projects.. : Just apply plugin for that particular language : This configuration is made in build.gradle file
 	Gradle is Fast : Gradle completes tasks quickly by reusing outputs from previous executions, processing only inputs that changed, and executing tasks in parallel.
 	
-7. Projects and Tasks in Gradle : 	
+7. Projects and Tasks in Gradle :  	
